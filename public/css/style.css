@@ -215,7 +215,7 @@ input { margin: 0; font-size: 100%; }
 
 
 	#todo .todo-list-header { position: relative; }
-	#todo-count { padding: 15px 40px 7px; font-size: 0.8em; opacity: 0.7; text-transform: uppercase; }
+	#todo-count { padding: 15px 40px 7px; font-size: 0.9em; opacity: 0.7; text-transform: none; }
 	#todo .todo-close { height: 40px; width: 40px; margin: 0; padding: 0; position: absolute; top: 0; right: 0; z-index: 100; background: none !important; line-height: 45px; opacity: 0.4 !important; text-align: center; }
 		#todo .todo-close:hover { opacity: 0.8 !important; }
 

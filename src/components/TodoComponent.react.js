@@ -1,6 +1,5 @@
 import React, { Component, PropTypes } from 'react'
 import TodoItem from './TodoItem.react'
-import Footer from './Footer'
 import TodoTextInput from './TodoTextInput.react'
 import classnames from 'classnames'
 

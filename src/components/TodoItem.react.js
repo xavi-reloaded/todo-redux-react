@@ -53,7 +53,8 @@ class TodoItem extends Component {
     return (
       <li draggable="true" className={classnames({
         completed: todo.completed,
-        editing: this.state.editing
+        editing: this.state.editing,
+        done: todo.completed
       })}>
         {element}
       </li>
